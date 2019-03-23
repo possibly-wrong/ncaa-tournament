@@ -2,7 +2,9 @@
 NCAA Men's Basketball Tournament games
 ======================================
 
-The file for each year's tournament contains three columns, indicating team name, seed, and number of tournament wins.
+The file for each year's tournament contains three columns, indicating team
+name, seed, and number of wins. Each round's matchups and outcomes are implied
+by the ordering of the teams and their corresponding total wins.
 
 References:
 
