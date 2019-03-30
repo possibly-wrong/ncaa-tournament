@@ -1,4 +1,4 @@
-Virginia	1	2
+Virginia	1	3
 GardnerWebb	16	0
 Mississippi	8	0
 Oklahoma	9	1
@@ -10,7 +10,7 @@ Tennessee	2	2
 Colgate	15	0
 Cincinnati	7	0
 Iowa	10	1
-Purdue	3	2
+Purdue	3	3
 OldDominion	14	0
 Villanova	6	1
 StMarysCA	11	0
@@ -20,9 +20,9 @@ UtahSt	8	0
 Washington	9	1
 Kansas	4	1
 Northeastern	13	0
-Auburn	5	2
+Auburn	5	3
 NewMexicoSt	12	0
-Kentucky	2	2
+Kentucky	2	3
 AbileneChristian	15	0
 Wofford	7	1
 SetonHall	10	0
@@ -30,7 +30,7 @@ Houston	3	2
 GeorgiaSt	14	0
 IowaSt	6	0
 OhioSt	11	1
-Duke	1	2
+Duke	1	3
 NDakotaSt	16	0
 VACommonwealth	8	0
 UCF	9	1
@@ -38,7 +38,7 @@ VirginiaTech	4	2
 StLouis	13	0
 MississippiSt	5	0
 Liberty	12	1
-MichiganSt	2	2
+MichiganSt	2	3
 Bradley	15	0
 Louisville	7	0
 Minnesota	10	1
@@ -46,7 +46,7 @@ LSU	3	2
 Yale	14	0
 Maryland	6	1
 Belmont	11	0
-Gonzaga	1	2
+Gonzaga	1	3
 FDickinson	16	0
 Syracuse	8	0
 Baylor	9	1
@@ -58,7 +58,7 @@ Michigan	2	2
 Montana	15	0
 Nevada	7	0
 Florida	10	1
-TexasTech	3	2
+TexasTech	3	3
 NKentucky	14	0
 Buffalo	6	1
 ArizonaSt	11	0
