@@ -1,4 +1,4 @@
-Virginia	1	3
+Virginia	1	4
 GardnerWebb	16	0
 Mississippi	8	0
 Oklahoma	9	1
@@ -20,7 +20,7 @@ UtahSt	8	0
 Washington	9	1
 Kansas	4	1
 Northeastern	13	0
-Auburn	5	3
+Auburn	5	4
 NewMexicoSt	12	0
 Kentucky	2	3
 AbileneChristian	15	0
@@ -38,7 +38,7 @@ VirginiaTech	4	2
 StLouis	13	0
 MississippiSt	5	0
 Liberty	12	1
-MichiganSt	2	3
+MichiganSt	2	4
 Bradley	15	0
 Louisville	7	0
 Minnesota	10	1
@@ -58,7 +58,7 @@ Michigan	2	2
 Montana	15	0
 Nevada	7	0
 Florida	10	1
-TexasTech	3	3
+TexasTech	3	4
 NKentucky	14	0
 Buffalo	6	1
 ArizonaSt	11	0
