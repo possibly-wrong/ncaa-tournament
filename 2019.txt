@@ -1,4 +1,4 @@
-Virginia	1	4
+Virginia	1	6
 GardnerWebb	16	0
 Mississippi	8	0
 Oklahoma	9	1
@@ -58,7 +58,7 @@ Michigan	2	2
 Montana	15	0
 Nevada	7	0
 Florida	10	1
-TexasTech	3	4
+TexasTech	3	5
 NKentucky	14	0
 Buffalo	6	1
 ArizonaSt	11	0
