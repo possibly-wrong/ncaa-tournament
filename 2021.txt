@@ -1,4 +1,4 @@
-Baylor	1	2
+Baylor	1	3
 Hartford	16	0
 NorthCarolina	8	0
 Wisconsin	9	1
@@ -10,7 +10,7 @@ OhioSt	2	0
 OralRoberts	15	2
 Florida	7	1
 VirginiaTech	10	0
-Arkansas	3	2
+Arkansas	3	3
 Colgate	14	0
 TexasTech	6	1
 UtahSt	11	0
@@ -21,8 +21,8 @@ GeorgiaTech	9	0
 OklahomaSt	4	1
 Liberty	13	0
 Tennessee	5	0
-OregonSt	12	2
-Houston	2	2
+OregonSt	12	3
+Houston	2	3
 ClevelandSt	15	0
 Clemson	7	0
 Rutgers	10	1
@@ -30,7 +30,7 @@ WestVirginia	3	1
 MoreheadSt	14	0
 SanDiegoSt	6	0
 Syracuse	11	2
-Gonzaga	1	2
+Gonzaga	1	3
 NorfolkSt	16	0
 Oklahoma	8	1
 Missouri	9	0
@@ -44,9 +44,9 @@ Oregon	7	2
 VACommonwealth	10	0
 Kansas	3	1
 EWashington	14	0
-USC	6	2
+USC	6	3
 Drake	11	0
-Michigan	1	2
+Michigan	1	3
 TXSouthern	16	0
 LSU	8	1
 StBonaventure	9	0
@@ -61,4 +61,4 @@ Maryland	10	1
 Texas	3	0
 AbileneChristian	14	1
 BYU	6	0
-UCLA	11	2
+UCLA	11	3
