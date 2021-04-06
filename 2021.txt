@@ -1,4 +1,4 @@
-Baylor	1	4
+Baylor	1	6
 Hartford	16	0
 NorthCarolina	8	0
 Wisconsin	9	1
@@ -30,7 +30,7 @@ WestVirginia	3	1
 MoreheadSt	14	0
 SanDiegoSt	6	0
 Syracuse	11	2
-Gonzaga	1	4
+Gonzaga	1	5
 NorfolkSt	16	0
 Oklahoma	8	1
 Missouri	9	0
