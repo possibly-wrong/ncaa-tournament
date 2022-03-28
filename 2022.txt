@@ -6,7 +6,7 @@ Illinois	4	1
 Chattanooga	13	0
 Houston	5	3
 UAB	12	0
-Villanova	2	3
+Villanova	2	4
 Delaware	15	0
 OhioSt	7	1
 LoyolaChicago	10	0
@@ -14,7 +14,7 @@ Tennessee	3	1
 Longwood	14	0
 ColoradoSt	6	0
 Michigan	11	2
-Kansas	1	3
+Kansas	1	4
 TXSouthern	16	0
 SanDiegoSt	8	0
 Creighton	9	1
@@ -38,7 +38,7 @@ Arkansas	4	3
 Vermont	13	0
 Connecticut	5	0
 NewMexicoSt	12	1
-Duke	2	3
+Duke	2	4
 CSFullerton	15	0
 MichiganSt	7	1
 Davidson	10	0
@@ -48,7 +48,7 @@ Alabama	6	0
 NotreDame	11	1
 Baylor	1	1
 NorfolkSt	16	0
-NorthCarolina	8	3
+NorthCarolina	8	4
 Marquette	9	0
 UCLA	4	2
 Akron	13	0
