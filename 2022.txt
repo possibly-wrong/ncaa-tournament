@@ -14,7 +14,7 @@ Tennessee	3	1
 Longwood	14	0
 ColoradoSt	6	0
 Michigan	11	2
-Kansas	1	4
+Kansas	1	6
 TXSouthern	16	0
 SanDiegoSt	8	0
 Creighton	9	1
@@ -48,7 +48,7 @@ Alabama	6	0
 NotreDame	11	1
 Baylor	1	1
 NorfolkSt	16	0
-NorthCarolina	8	4
+NorthCarolina	8	5
 Marquette	9	0
 UCLA	4	2
 Akron	13	0
