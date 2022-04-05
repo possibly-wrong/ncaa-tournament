@@ -9,3 +9,4 @@ by the ordering of the teams and their corresponding total wins.
 References:
 
 * [https://possiblywrong.wordpress.com/2018/04/06/picking-a-perfect-ncaa-bracket-2018-was-the-most-unlikely-tournament-so-far/](https://possiblywrong.wordpress.com/2018/04/06/picking-a-perfect-ncaa-bracket-2018-was-the-most-unlikely-tournament-so-far/)
+* [https://possiblywrong.wordpress.com/2022/04/05/ncaa-tournaments-are-getting-measurably-wilder/](https://possiblywrong.wordpress.com/2022/04/05/ncaa-tournaments-are-getting-measurably-wilder/)
