@@ -4,7 +4,7 @@ Maryland	8	1
 WestVirginia	9	0
 Virginia	4	0
 Furman	13	1
-SanDiegoSt	5	2
+SanDiegoSt	5	3
 ColCharleston	12	0
 Arizona	2	0
 Princeton	15	2
@@ -12,12 +12,12 @@ Missouri	7	1
 UtahSt	10	0
 Baylor	3	1
 SantaBarbara	14	0
-Creighton	6	2
+Creighton	6	3
 NCState	11	0
 Purdue	1	0
 FDickinson	16	1
 Memphis	8	0
-FLAtlantic	9	2
+FLAtlantic	9	3
 Tennessee	4	2
 Lafayette	13	0
 Duke	5	1
@@ -26,7 +26,7 @@ Marquette	2	1
 Vermont	15	0
 MichiganSt	7	2
 USC	10	0
-KansasSt	3	2
+KansasSt	3	3
 MontanaSt	14	0
 Kentucky	6	1
 Providence	11	0
@@ -36,9 +36,9 @@ Iowa	8	0
 Auburn	9	1
 Indiana	4	1
 Kent	13	0
-MiamiFL	5	2
+MiamiFL	5	3
 Drake	12	0
-Texas	2	2
+Texas	2	3
 Colgate	15	0
 TexasAM	7	0
 PennSt	10	1
@@ -50,7 +50,7 @@ Kansas	1	1
 Howard	16	0
 Arkansas	8	2
 Illinois	9	0
-Connecticut	4	2
+Connecticut	4	3
 Iona	13	0
 StMarysCA	5	1
 VACommonwealth	12	0
@@ -58,7 +58,7 @@ UCLA	2	2
 UNCAsheville	15	0
 Northwestern	7	1
 BoiseSt	10	0
-Gonzaga	3	2
+Gonzaga	3	3
 GrandCanyon	14	0
 TCU	6	1
 ArizonaSt	11	0
