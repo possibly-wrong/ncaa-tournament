@@ -4,7 +4,7 @@ Maryland	8	1
 WestVirginia	9	0
 Virginia	4	0
 Furman	13	1
-SanDiegoSt	5	4
+SanDiegoSt	5	5
 ColCharleston	12	0
 Arizona	2	0
 Princeton	15	2
@@ -50,7 +50,7 @@ Kansas	1	1
 Howard	16	0
 Arkansas	8	2
 Illinois	9	0
-Connecticut	4	4
+Connecticut	4	5
 Iona	13	0
 StMarysCA	5	1
 VACommonwealth	12	0
