@@ -50,7 +50,7 @@ Kansas	1	1
 Howard	16	0
 Arkansas	8	2
 Illinois	9	0
-Connecticut	4	5
+Connecticut	4	6
 Iona	13	0
 StMarysCA	5	1
 VACommonwealth	12	0
