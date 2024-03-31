@@ -1,4 +1,4 @@
-Connecticut	1	3
+Connecticut	1	4
 Stetson	16	0
 FLAtlantic	8	0
 Northwestern	9	1
@@ -18,7 +18,7 @@ NorthCarolina	1	2
 Wagner	16	0
 MississippiSt	8	0
 MichiganSt	9	1
-Alabama	4	3
+Alabama	4	4
 ColCharleston	13	0
 StMarysCA	5	0
 GrandCanyon	12	1
@@ -45,8 +45,8 @@ Colorado	10	1
 Kentucky	3	0
 Oakland	14	1
 TexasTech	6	0
-NCState	11	3
-Purdue	1	3
+NCState	11	4
+Purdue	1	4
 Grambling	16	0
 UtahSt	8	1
 TCU	9	0
