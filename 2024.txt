@@ -1,4 +1,4 @@
-Connecticut	1	4
+Connecticut	1	5
 Stetson	16	0
 FLAtlantic	8	0
 Northwestern	9	1
@@ -46,7 +46,7 @@ Kentucky	3	0
 Oakland	14	1
 TexasTech	6	0
 NCState	11	4
-Purdue	1	4
+Purdue	1	5
 Grambling	16	0
 UtahSt	8	1
 TCU	9	0
