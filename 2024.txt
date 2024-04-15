@@ -1,4 +1,4 @@
-Connecticut	1	5
+Connecticut	1	6
 Stetson	16	0
 FLAtlantic	8	0
 Northwestern	9	1
