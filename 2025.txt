@@ -1,4 +1,4 @@
-Auburn	1	3
+Auburn	1	4
 AlabamaSt	16	0
 Louisville	8	0
 Creighton	9	1
@@ -14,7 +14,7 @@ IowaSt	3	1
 Lipscomb	14	0
 Mississippi	6	2
 NorthCarolina	11	0
-Florida	1	3
+Florida	1	4
 NorfolkSt	16	0
 Connecticut	8	1
 Oklahoma	9	0
@@ -30,7 +30,7 @@ TexasTech	3	3
 UNCWilmington	14	0
 Missouri	6	0
 Drake	11	1
-Duke	1	3
+Duke	1	4
 MtStMarys	16	0
 MississippiSt	8	0
 Baylor	9	1
@@ -46,7 +46,7 @@ Wisconsin	3	1
 Montana	14	0
 BYU	6	2
 VACommonwealth	11	0
-Houston	1	3
+Houston	1	4
 SIUEdwardsville	16	0
 Gonzaga	8	1
 Georgia	9	0
