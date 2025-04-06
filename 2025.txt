@@ -14,7 +14,7 @@ IowaSt	3	1
 Lipscomb	14	0
 Mississippi	6	2
 NorthCarolina	11	0
-Florida	1	4
+Florida	1	5
 NorfolkSt	16	0
 Connecticut	8	1
 Oklahoma	9	0
@@ -46,7 +46,7 @@ Wisconsin	3	1
 Montana	14	0
 BYU	6	2
 VACommonwealth	11	0
-Houston	1	4
+Houston	1	5
 SIUEdwardsville	16	0
 Gonzaga	8	1
 Georgia	9	0
