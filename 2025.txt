@@ -14,7 +14,7 @@ IowaSt	3	1
 Lipscomb	14	0
 Mississippi	6	2
 NorthCarolina	11	0
-Florida	1	5
+Florida	1	6
 NorfolkSt	16	0
 Connecticut	8	1
 Oklahoma	9	0
