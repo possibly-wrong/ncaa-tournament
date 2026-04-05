@@ -6,7 +6,7 @@ Kansas	4	1
 CalBaptist	13	0
 StJohns	5	2
 NorthernIowa	12	0
-Connecticut	2	4
+Connecticut	2	5
 Furman	15	0
 UCLA	7	1
 UCF	10	0
@@ -46,7 +46,7 @@ Gonzaga	3	1
 KennesawSt	14	0
 BYU	6	0
 Texas	11	2
-Michigan	1	4
+Michigan	1	5
 Howard	16	0
 Georgia	8	0
 StLouis	9	1
