@@ -46,7 +46,7 @@ Gonzaga	3	1
 KennesawSt	14	0
 BYU	6	0
 Texas	11	2
-Michigan	1	5
+Michigan	1	6
 Howard	16	0
 Georgia	8	0
 StLouis	9	1
